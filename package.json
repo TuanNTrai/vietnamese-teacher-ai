@@ -1,0 +1,20 @@
+{
+  "name": "vietnamese-teacher-ai",
+  "version": "1.0.0",
+  "description": "AI-powered Vietnamese language learning platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "keywords": ["vietnamese", "language-learning", "ai", "nextjs"],
+  "author": "TuanNTrai",
+  "license": "MIT"
+}
