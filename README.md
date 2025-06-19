@@ -29,3 +29,7 @@ This project is ready for deployment on Vercel.
 - AI teacher responses
 - Clean, responsive interface
 - Built with Next.js
+
+## Website
+
+Live demo: [Vietnamese Teacher AI](https://vietnamese-teacher-ai.vercel.app)
