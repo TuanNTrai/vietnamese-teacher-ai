@@ -20,6 +20,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## Deployment
+- Fixed Next.js framework configuration for proper routing
 
 This project is ready for deployment on Vercel.
 
